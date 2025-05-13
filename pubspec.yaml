@@ -1,7 +1,7 @@
 name: google_maps_webservice
 description: Google Maps Web Services [API](https://developers.google.com/maps/web-services)
 version: 0.0.20-nullsafety.5
-homepage: https://github.com/lejard-h/google_maps_webservice
+homepage: https://github.com/krunalappdev/google_maps_webservice
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
